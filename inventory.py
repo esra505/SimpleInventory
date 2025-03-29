@@ -1,4 +1,4 @@
-# (c) 2025 Full Name
+# (c) 2025 Esra Marie M. Managbanag and Valerie Joyce C. Quigao
 # A program to parse and manage a CSV file.
 
 import os
